@@ -30,7 +30,8 @@ example data
 Home page
 ![image](https://github.com/user-attachments/assets/a9ff600f-9b3a-4ecc-8bc6-776f79590b01)
 excercises categtories page 
-![image](https://github.com/user-attachments/assets/573d97fe-e23a-44cc-8beb-4d172fcbbc66)
+![image](https://github.com/user-attachments/assets/210a0153-720c-4854-a48e-0411204a85a4)
+
 
 leg excercises 
 ![image](https://github.com/user-attachments/assets/6d6c24f3-1a0a-43b9-aa9f-e5c8e8cb1802)
