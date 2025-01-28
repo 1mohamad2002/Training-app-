@@ -18,4 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Training-app-
 app made by flutter it teach what moves u need to do to train  the muscle or body part u chose 
->>>>>>> cd24e51a22c9bc468d90d902495b8c25e1dca7a9
+files used to get data 
+![image](https://github.com/user-attachments/assets/aa53c1b2-088c-4910-a15d-12d2c2082159)
+
